@@ -17,7 +17,7 @@ Each chapter is organized as a **separate branch**, allowing for structured lear
 
 
 ```bash
-1️⃣ Clone the repository** to your local machine:
+1️⃣ Clone the repository to your local machine:
 git clone https://github.com/your-username/java-with-projects.git
 cd java-with-projects
 
@@ -36,21 +36,21 @@ git checkout chapter-1
 📌 Branch Naming Convention
 Each branch is named using the following format:
 
-🔹 chapter-1 – Getting Started with Java<br>
-🔹 chapter-2 – Variables and Primitive Data Types<br>
-🔹 chapter-3 – Operators and Casting<br>
+🔹 chapter-1 – Getting Started with Java
+🔹 chapter-2 – Variables and Primitive Data Types
+🔹 chapter-3 – Operators and Casting
 🔹 … and so on.
 
 🛠 Contributing & Using the Repository
-📌 For learners:<br>
-✔ Explore each chapter by switching branches.<br>
+📌 For learners:
+✔ Explore each chapter by switching branches.
 ✔ Run the code examples and modify them for practice.
 
-📌 For contributors:<br>
+📌 For contributors:
 ✔ If you would like to contribute improvements, create a pull request! 🚀
 
 📢 Notes & Future Updates
-✅ More chapters will be added progressively.<br>
-✅ Each chapter may include exercises, projects, and explanations.<br>
+✅ More chapters will be added progressively.
+✅ Each chapter may include exercises, projects, and explanations.
 ✅ Feel free to open an issue if you spot errors or have questions! 🙌
 
