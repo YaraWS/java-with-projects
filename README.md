@@ -36,9 +36,9 @@ git checkout chapter-1
 📌 Branch Naming Convention
 Each branch is named using the following format:
 
-🔹 chapter-1 – Getting Started with Java
-🔹 chapter-2 – Variables and Primitive Data Types
-🔹 chapter-3 – Operators and Casting
+🔹 chapter-1 – chapter-1-getting-started 
+🔹 chapter-2 – chapter-2-variables-data-types 
+🔹 chapter-3 – chapter-3-operators-casting 
 🔹 … and so on.
 
 🛠 Contributing & Using the Repository
